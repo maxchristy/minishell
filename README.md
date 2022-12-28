@@ -22,12 +22,11 @@ would proceed to cat the rest of the script.
 
 ### Dependencies
 
-[@GCC Compiler](https://gcc.gnu.org/)
+[GCC Compiler](https://gcc.gnu.org/)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* This program can be downloaded in its entirety from this repository.
 
 ### Executing program
 
