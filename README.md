@@ -22,8 +22,7 @@ would proceed to cat the rest of the script.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+[@GCC Compiler](https://gcc.gnu.org/)
 
 ### Installing
 
@@ -46,7 +45,7 @@ command to run if program contains helper info
 ```
 
 ## Authors
-
+https://gcc.gnu.org/
 [@maxchristy](https://github.com/maxchristy)
 
 ## Version History
