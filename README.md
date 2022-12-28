@@ -38,7 +38,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+For help or feedback email mjchristy@gmail.com.
 ```
 command to run if program contains helper info
 ```
