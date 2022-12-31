@@ -30,8 +30,13 @@ would proceed to cat the rest of the script.
 
 ### Executing program
 
+* Execute the included makefile
 ```
-code blocks for commands
+make
+```
+* Run the output of said makefile
+```
+./mush.out
 ```
 
 ## Help
