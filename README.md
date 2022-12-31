@@ -44,7 +44,6 @@ make
 For help or feedback email mjchristy@gmail.com.
 
 ## Authors
-https://gcc.gnu.org/
 [@maxchristy](https://github.com/maxchristy)
 
 ## Version History
